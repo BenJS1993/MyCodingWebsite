@@ -13,3 +13,12 @@
 .nav-link {
     color: white;
 }
+
+.carousel {
+    width: 50%;
+}
+
+/* d-block {
+    height: 100%;
+    width: 100%;
+} */
