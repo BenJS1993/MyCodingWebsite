@@ -7,7 +7,7 @@
 }
 
 .navbar-brand {
-    color: white;
+    color: white !important;
 }
 
 .nav-link {
@@ -16,6 +16,10 @@
 
 .carousel {
     width: 50%;
+}
+
+.div {
+    background-color: green;
 }
 
 /* d-block {
